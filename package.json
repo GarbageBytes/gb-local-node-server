@@ -1,5 +1,5 @@
 {
-  "name": "gb-local-node-server",
+  "name": "br-local-node-server",
   "version": "1.0.0",
   "description": "Local node server for each GB",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GarbageBytes/gb-local-node-server.git"
+    "url": "git+https://github.com/GarbageBytes/br-local-node-server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GarbageBytes/gb-local-node-server/issues"
+    "url": "https://github.com/GarbageBytes/br-local-node-server/issues"
   },
-  "homepage": "https://github.com/GarbageBytes/gb-local-node-server#readme",
+  "homepage": "https://github.com/GarbageBytes/br-local-node-server#readme",
   "devDependencies": {
     "@types/node": "^13.1.1",
     "@types/roslib": "^1.0.0",
